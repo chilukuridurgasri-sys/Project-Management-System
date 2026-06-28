@@ -100,7 +100,7 @@ PORT=5000
 Run the backend:
 
 ```bash id="w3vb54"
-node server.js
+node index.js
 ```
 
 Backend runs at:
